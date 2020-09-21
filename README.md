@@ -1,14 +1,11 @@
-# react-starter
-boilerplate for Practice
+# DEPRECATED - react-starter
 
-## Build Setup
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
+> ### TODO rewrite
+- [ ] React
+- [ ] TypeScript
+- [ ] Babel
+- [ ] CSS in JS
+- [ ] Storybook
+- [ ] Webpack
+- [ ] Code Splitting
+- [ ] Server-Side Rendering
